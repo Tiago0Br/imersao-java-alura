@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5acad492-c6a4-4c6a-a067-b08f17d3780b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StickersGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Content.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ContentExtractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HttpConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IMDBContentExtractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NasaContentExtractor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
@@ -20,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -97,6 +101,8 @@
       <workItem from="1658269021245" duration="91000" />
       <workItem from="1658269259122" duration="7202000" />
       <workItem from="1658356724466" duration="1233000" />
+      <workItem from="1658366383169" duration="1151000" />
+      <workItem from="1658440086050" duration="6395000" />
     </task>
     <servers />
   </component>
